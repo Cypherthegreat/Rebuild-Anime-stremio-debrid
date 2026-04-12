@@ -1,4 +1,4 @@
-# One Pace x One Piece Kai Stremio Addon
+# One Pace x One Piece Kai Stremio Debrid Addon
 
 Join the [#onepace:garnier.dev](https://matrix.to/#/#onepace:garnier.dev) Matrix channel to receive updates when new episodes are released!
 
@@ -15,7 +15,8 @@ It stops after the first "half" of the One Piece anime though, and has Japanese 
 
 [^1]: An older [English dub](https://www.reddit.com/comments/g7aro3/) also exists if you prefer – [updated](https://www.reddit.com/comments/17phccc/) in November 2023 (up to the first half of Wano).
 
-This addon brings all three together to provide the optimal One Piece watching experience.\
+This fork continues the addon with debrid integration support, especially for Torbox, while keeping the project maintained going forward.\
+It brings all three together to provide the optimal One Piece watching experience.\
 You will see a new One Piece series on Stremio which contains One Pace, with missing parts filled in from One Piece Kai.\
 It is automatically kept up to date with the latest releases nightly.
 
@@ -65,9 +66,11 @@ In April 2024, One Pace changed their website very slightly which temporarly bro
 In July 2024, One Pace's website got taken down with its GraphQL API, breaking automated updates for over a year.\
 In September 2025, I finally restored automated updates by using the official Google Sheets documents, waiting for a new GraphQL API.
 
+On 12 April 2026, [vasujain275](https://github.com/vasujain275) forked this project as [onepace-stremio-debrid](https://github.com/vasujain275/onepace-stremio-debrid) to add debrid integration—especially Torbox support—and continue maintaining it into the future.
+
 Thank you to everyone involved, especially [One Pace volunteers](https://onepace.net/about) for their incredible, ongoing effort.
 
 ## Support
 
-If you encounter any problem or have questions, feel free to open an [Issue](https://github.com/au2001/onepace-stremio/issues) on this repository.\
-Enhancements and bug fixes are welcome through [Pull Requests](https://github.com/au2001/onepace-stremio/pulls) on this repository.
+If you encounter any problem or have questions, feel free to open an [Issue](https://github.com/vasujain275/onepace-stremio-debrid/issues) on this repository.\
+Enhancements and bug fixes are welcome through [Pull Requests](https://github.com/vasujain275/onepace-stremio-debrid/pulls) on this repository.
