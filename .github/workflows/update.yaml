@@ -31,14 +31,18 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          cache: npm
           node-version: lts/*
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.3.8
 
       - name: Setup FFmpeg
         uses: federicocarboni/setup-ffmpeg@v3
 
       - name: Install dependencies
-        run: npm ci
+        run: bun install --frozen-lockfile
 
       - name: Get current date
         id: date
@@ -58,7 +62,7 @@ jobs:
         id: scrape
         run: |
           echo "message<<EOF" >> "$GITHUB_OUTPUT"
-          npm run --silent scrape | sed 's/$/<br>/g' >> "$GITHUB_OUTPUT"
+          bun run --silent scrape | sed 's/$/<br>/g' >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}

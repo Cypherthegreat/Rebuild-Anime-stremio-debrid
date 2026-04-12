@@ -12,6 +12,7 @@
   ],
   "author": "Aurélien <git@garnier.dev> (https://garnier.dev)",
   "license": "MIT",
+  "packageManager": "bun@1.3.8",
   "repository": {
     "type": "git",
     "url": "https://github.com/au2001/onepace-stremio.git"
