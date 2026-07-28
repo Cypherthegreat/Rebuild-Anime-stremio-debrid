@@ -1,0 +1,604 @@
+{
+  "meta": {
+    "id": "narutorebuild",
+    "type": "series",
+    "name": "Rebuild of Naruto",
+    "poster": "https://image.tmdb.org/t/p/w600_and_h900_face/1GVfX7kqIbQBp38Riiy1QLQkhJQ.jpg",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Naruto_logo.svg",
+    "background": "https://wallpaperaccess.com/full/246648.jpg",
+    "posterShape": "poster",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Anime"
+    ],
+    "releaseInfo": "2023",
+    "description": "Rebuild of Naruto is a condensed fan edit of the Naruto anime.",
+    "videos": [
+      {
+        "id": "NR0101a",
+        "title": "Naruto 1a - Academy Days",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0102a",
+        "title": "Naruto 2a - The Bell Test",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0103a",
+        "title": "Naruto 3a - Mission, Start",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0103b",
+        "title": "Naruto 3b - The Bridge",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0104a",
+        "title": "Naruto 4a - Squad Missions",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0105a",
+        "title": "Naruto 5a - Entrance Exam",
+        "season": 1,
+        "episode": 6,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0105b",
+        "title": "Naruto 5b - Forest of Death",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0105c",
+        "title": "Naruto 5c - Preliminaries",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0105d",
+        "title": "Naruto 5d - Training",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0105e",
+        "title": "Naruto 5e - Finals",
+        "season": 1,
+        "episode": 10,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0105f",
+        "title": "Naruto 5f - Destruction",
+        "season": 1,
+        "episode": 11,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0106a",
+        "title": "Naruto 6a - Reunions",
+        "season": 1,
+        "episode": 12,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0106b",
+        "title": "Naruto 6b - The Offer",
+        "season": 1,
+        "episode": 13,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0107a",
+        "title": "Naruto 7a - Rift",
+        "season": 1,
+        "episode": 14,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0107b",
+        "title": "Naruto 7b - Sasuke Retrieval Squad",
+        "season": 1,
+        "episode": 15,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0107c",
+        "title": "Naruto 7c - Miscalculation",
+        "season": 1,
+        "episode": 16,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0107d",
+        "title": "Naruto 7d - Broken Bond",
+        "season": 1,
+        "episode": 17,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0201a",
+        "title": "Naruto Gaiden 1a - Land of Rice Fields",
+        "season": 2,
+        "episode": 1,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0202a",
+        "title": "Naruto Gaiden 2a - Search for the Bikochu",
+        "season": 2,
+        "episode": 2,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0203a",
+        "title": "Naruto Gaiden 3a - Curry of Life",
+        "season": 2,
+        "episode": 3,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0204a",
+        "title": "Naruto Gaiden 4a - Ultimate Weapon",
+        "season": 2,
+        "episode": 4,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0205a",
+        "title": "Naruto Gaiden 5a - Departure",
+        "season": 2,
+        "episode": 5,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0301a",
+        "title": "Kakashi Gaiden 1a - Obito Uchiha",
+        "season": 3,
+        "episode": 1,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0302a",
+        "title": "Kakashi Gaiden 2a - ANBU Days",
+        "season": 3,
+        "episode": 2,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0303a",
+        "title": "Kakashi Gaiden 3a - Team 7",
+        "season": 3,
+        "episode": 3,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0401a",
+        "title": "Naruto Shippuden 1a - The First Exam",
+        "season": 4,
+        "episode": 1,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0401b",
+        "title": "Naruto Shippuden 1b - The Second Exam",
+        "season": 4,
+        "episode": 2,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0401c",
+        "title": "Naruto Shippuden 1c - Conclusion",
+        "season": 4,
+        "episode": 3,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0402a",
+        "title": "Naruto Shippuden 2a - Infiltration",
+        "season": 4,
+        "episode": 4,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0402b",
+        "title": "Naruto Shippuden 2b - Rescue the Kazekage",
+        "season": 4,
+        "episode": 5,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0402c",
+        "title": "Naruto Shippuden 2c - The Puppet Master",
+        "season": 4,
+        "episode": 6,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0403a",
+        "title": "Naruto Shippuden 3a - The Tenchi Bridge",
+        "season": 4,
+        "episode": 7,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0403b",
+        "title": "Naruto Shippuden 3b - The Secret Mission",
+        "season": 4,
+        "episode": 8,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0404a",
+        "title": "Naruto Shippuden 4a - Impending Menace",
+        "season": 4,
+        "episode": 9,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0404b",
+        "title": "Naruto Shippuden 4b - King",
+        "season": 4,
+        "episode": 10,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0405a",
+        "title": "Naruto Shippuden 5a - The Child",
+        "season": 4,
+        "episode": 11,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0405b",
+        "title": "Naruto Shippuden 5b - The Beast of the Lake",
+        "season": 4,
+        "episode": 12,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0405c",
+        "title": "Naruto Shippuden 5c - A Place to Return To",
+        "season": 4,
+        "episode": 13,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0406a",
+        "title": "Naruto Shippuden 6a - Hebi",
+        "season": 4,
+        "episode": 14,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0406b",
+        "title": "Naruto Shippuden 6b - Fated Battle",
+        "season": 4,
+        "episode": 15,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0406c",
+        "title": "Naruto Shippuden 6c - Taka",
+        "season": 4,
+        "episode": 16,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0407a",
+        "title": "Naruto Shippuden 7a - The Child of Prophecy",
+        "season": 4,
+        "episode": 17,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0407b",
+        "title": "Naruto Shippuden 7b - The Man Who Became God",
+        "season": 4,
+        "episode": 18,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0408a",
+        "title": "Naruto Shippuden 8a - Reassignment",
+        "season": 4,
+        "episode": 19,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0408b",
+        "title": "Naruto Shippuden 8b - Shattered Bubble",
+        "season": 4,
+        "episode": 20,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0409a",
+        "title": "Naruto Shippuden 9a - Surpassing the Master",
+        "season": 4,
+        "episode": 21,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0409b",
+        "title": "Naruto Shippuden 9b - Feel Pain",
+        "season": 4,
+        "episode": 22,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0409c",
+        "title": "Naruto Shippuden 9c - Know Pain",
+        "season": 4,
+        "episode": 23,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0501a",
+        "title": "Naruto Senjou 1a - The Five Kage",
+        "season": 5,
+        "episode": 1,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0501b",
+        "title": "Naruto Senjou 1b - Shinobi of Darkness",
+        "season": 5,
+        "episode": 2,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0502a",
+        "title": "Naruto Senjou 2a - Secret S-Rank Mission",
+        "season": 5,
+        "episode": 3,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0502b",
+        "title": "Naruto Senjou 2b - Thank You",
+        "season": 5,
+        "episode": 4,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0502c",
+        "title": "Naruto Senjou 2c - Prelude to War",
+        "season": 5,
+        "episode": 5,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503a",
+        "title": "Naruto Senjou 3a - The Great War Begins",
+        "season": 5,
+        "episode": 6,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503b",
+        "title": "Naruto Senjou 3b - Battlefield",
+        "season": 5,
+        "episode": 7,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503c",
+        "title": "Naruto Senjou 3c - Nightfall",
+        "season": 5,
+        "episode": 8,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503d",
+        "title": "Naruto Senjou 3d - Swordsmen",
+        "season": 5,
+        "episode": 9,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503e",
+        "title": "Naruto Senjou 3e - Reinforcements",
+        "season": 5,
+        "episode": 10,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503f",
+        "title": "Naruto Senjou 3f - The Power of a Name",
+        "season": 5,
+        "episode": 11,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503g",
+        "title": "Naruto Senjou 3g - Eyes That See in the Dark",
+        "season": 5,
+        "episode": 12,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503h",
+        "title": "Naruto Senjou 3h - The Risk of Reanimation",
+        "season": 5,
+        "episode": 13,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503i",
+        "title": "Naruto Senjou 3i - Sasuke's Answer",
+        "season": 5,
+        "episode": 14,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503j",
+        "title": "Naruto Senjou 3j - The Allied Shinobi Forces",
+        "season": 5,
+        "episode": 15,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503k",
+        "title": "Naruto Senjou 3k - The Ten-Tails Jinchuriki",
+        "season": 5,
+        "episode": 16,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503l",
+        "title": "Naruto Senjou 3l - Madara Uchiha",
+        "season": 5,
+        "episode": 17,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503m",
+        "title": "Naruto Senjou 3m - She of the Beginning",
+        "season": 5,
+        "episode": 18,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0503n",
+        "title": "Naruto Senjou 3n - Revolution",
+        "season": 5,
+        "episode": 19,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0601a",
+        "title": "Naruto Hiden 1a - Sasuke",
+        "season": 6,
+        "episode": 1,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0602a",
+        "title": "Naruto Hiden 2a - Shikamaru",
+        "season": 6,
+        "episode": 2,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0603a",
+        "title": "Naruto Hiden 3a - The Wedding",
+        "season": 6,
+        "episode": 3,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0701a",
+        "title": "Next Generations 1a - The 7th Hokage and the Scarlet Spring",
+        "season": 7,
+        "episode": 1,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0702a",
+        "title": "Next Generations 2a - Boruto Naruto the Movie ~Extended Edition~",
+        "season": 7,
+        "episode": 2,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      },
+      {
+        "id": "NR0801a",
+        "title": "Itachi Shinden 1a - Death and Rebirth",
+        "season": 8,
+        "episode": 1,
+        "released": "2023-01-01T00:00:00.000Z",
+        "available": true
+      }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-# One Pace x One Piece Kai Stremio Debrid Addon
+# Rebuild of Naruto x One Pace x One Piece Kai Stremio Debrid Addon
 
 Join the [#onepace:garnier.dev](https://matrix.to/#/#onepace:garnier.dev) Matrix channel to receive updates when new episodes are released!
 
@@ -6,6 +6,25 @@ Join the [#onepace:garnier.dev](https://matrix.to/#/#onepace:garnier.dev) Matrix
 
 [Stremio](https://www.stremio.com) is a modern media center that gives you the freedom to watch everything you want.\
 Thanks to its addon system, it allows accessing a variety of content.
+
+[Rebuild of Naruto](https://discord.gg/JEUpfrfnnq)
+Rebuild of Naruto is a complete reedit, restructure, and overall enhancement of the Naruto anime. The goal of this project is to create the definitive viewing experience for both old fans and new. Like other fan edits, this project removes most filler and removes padding/fluff from the anime like unnecessary exposition, repetitive flashbacks, elongated shots, and so on Unlike other fan edits, however, trimming down the anime is just a byproduct of everything else offered in this project.
+
+The main selling point with Rebuild of Naruto is the narrative restructuring. Fans who have finished either the manga or anime should be rather familiar with how often Kishimoto changed details of the story over the course of the manga. However, what's truly remarkable about Kishimoto as a storyteller is that he managed to make even the most drastic changes without making many retcons (changing events we have already seen to support new information). Instead, he used flashbacks to either show us new scenes that occurred during sections of the story we had already seen, or to reveal new information through the perspective of another character. This method of "retconning" was fantastic when the story was unfolding, but now that the story is over, this method has unfortunately left quite a sloppy mess of the chronology. That is what this project aims to correct: to enhance the storytelling of the anime with the benefit of hindsight.
+
+To go along with this restructuring, each individual "arc" of the show is presented as a movie or series of movies. Episode in a story arc are seamlessly stitched together to create a naturally flowing feature film. 
+
+Filler?
+As mentioned, I am cutting most filler. The filler arcs/scenes that are included in this project have been hand-selected as ones that I believe add to character development or the world-building in a meaningful way.
+
+Will this cover Shippuden?
+Yes, this covers Shippuden. 
+
+Will this cover Boruto? 
+As of right now, I have no plans to do a cut of Boruto. If I do ever create one, it will be after the show has concluded and the English Dub has been released.
+
+Is this also in English?
+Yes! This project offers dual-audio tracks and English subtitles for the Japanese audio. (edited)Monday, 16 
 
 [One Pace](https://onepace.net) is a fan project that recuts One Piece to bring it more in line with the pacing of the original manga by Eiichiro Oda.\
 It is distributed through torrent files on their website, which can be cumbersome to watch, and is missing some parts.
@@ -16,7 +35,7 @@ It stops after the first "half" of the One Piece anime though, and has Japanese 
 [^1]: An older [English dub](https://www.reddit.com/comments/g7aro3/) also exists if you prefer – [updated](https://www.reddit.com/comments/17phccc/) in November 2023 (up to the first half of Wano).
 
 This fork continues the addon with debrid integration support, especially for Torbox, while keeping the project maintained going forward.\
-It brings all three together to provide the optimal One Piece watching experience.\
+It brings all three together to provide the optimal Naruto and One Piece watching experience.\
 You will see a new One Piece series on Stremio which contains One Pace, with missing parts filled in from One Piece Kai.\
 It is automatically kept up to date with the latest releases nightly.
 

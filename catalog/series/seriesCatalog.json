@@ -5,7 +5,27 @@
       "id": "onepace",
       "name": "One Pace",
       "poster": "https://image.tmdb.org/t/p/original/kuOOvNZWcUWmkftvmoiWEHk0Fsk.jpg",
-      "genres": ["Animation", "Fantasy", "Comedy", "Adventure", "Action"]
+      "posterShape": "poster",
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Comedy",
+        "Adventure",
+        "Action"
+      ]
+    },
+    {
+      "type": "series",
+      "id": "narutorebuild",
+      "name": "Rebuild of Naruto",
+      "description": "A condensed fan edit of the Naruto anime.",
+      "posterShape": "poster",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Anime"
+      ],
+      "releaseInfo": "2023"
     }
   ]
 }

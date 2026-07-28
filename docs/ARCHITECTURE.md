@@ -11,6 +11,9 @@ Stremio-facing side in this repo is static:
 - `manifest.json`
 - `catalog/series/seriesCatalog.json`
 - `meta/series/onepace.json`
+- `/meta/series/narutorebuild.json`
+- `/stream/series/NR0101a.json`
+- `/stream/series/NR0102a.json`
 - `stream/series/*.json`
 - `static/*.srt`
 

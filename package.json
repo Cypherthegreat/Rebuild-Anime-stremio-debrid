@@ -1,16 +1,17 @@
 {
   "name": "onepace-stremio",
-  "version": "2.0.0",
-  "description": "Stremio addon for watching One Pace and One Piece Kai effortlessly",
+  "version": "2.1.0",
+  "description": "Stremio addon for One Pace, One Piece Kai, and Rebuild of Naruto.",
   "keywords": [
     "stremio",
     "stremio-addons",
     "anime",
+    "naruto",
     "one-piece",
     "one-pace",
     "torrent"
   ],
-  "author": "Aurélien <git@garnier.dev> (https://garnier.dev)",
+  "author": "Aurlien <git@garnier.dev> (https://garnier.dev)",
   "license": "MIT",
   "packageManager": "bun@1.3.8",
   "repository": {
@@ -19,17 +20,18 @@
   },
   "scripts": {
     "format": "prettier --write .",
-    "scrape": "ts-node scripts/scrape.ts"
+    "scrape": "ts-node scripts/scrape.ts",
+    "naruto:build": "node scripts/buildNarutoRebuild.js"
   },
   "devDependencies": {
-    "@types/fluent-ffmpeg": "^2.1.24",
-    "@types/parse-torrent": "^5.8.7",
-    "dotenv": "^17.2.2",
-    "fluent-ffmpeg": "^2.1.2",
-    "googleapis": "^160.0.0",
-    "limiter": "^2.1.0",
-    "parse-torrent": "^9.1.5",
-    "prettier": "^3.2.4",
-    "ts-node": "^10.9.2"
+    "@types/fluent-ffmpeg": "2.1.24",
+    "@types/parse-torrent": "5.8.7",
+    "dotenv": "17.2.2",
+    "fluent-ffmpeg": "2.1.2",
+    "googleapis": "160.0.0",
+    "limiter": "2.1.0",
+    "parse-torrent": "9.1.5",
+    "prettier": "3.2.4",
+    "ts-node": "10.9.2"
   }
 }
