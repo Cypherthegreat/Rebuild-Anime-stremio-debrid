@@ -54,18 +54,19 @@ Please note:
 ### Quick Install
 
 1. Log into [Stremio for Browser](https://app.strem.io) with the same account you will use on your device.
-2. [Click HERE](https://app.strem.io/#/addons/community/all?addon=https%3A%2F%2Fonepace.arl.sh%2Fmanifest.json) and hit the `Install` button.
+2. [Click HERE](https://app.strem.io/#/addons/community/all?addon=https%3A%2F%2Fhttps://rebuild-anime-stremio-debrid-theta.vercel.app/manifest.json) and hit the `Install` button.
 3. One Pace should now be available in the `Discover` tab or [here](https://app.strem.io/#/detail/series/onepace/).
 4. The addon will synchronize with any other device under the same account so you can watch from anywhere.
 
 ### Manual Install
 
 1. Go to Stremio's `Addons` tab.
-2. In `Search addons`, paste the following link: `https://onepace.arl.sh/manifest.json`.
+2. In `Search addons`, paste the following link: `https://rebuild-anime-stremio-debrid-theta.vercel.app/manifest.json`.
 3. Hit the `Install` button.
 4. One Pace should now be available in the `Discover` tab.
 
 ## Addon History
+vasujain275/onepace-stremio-debrid was who i forked from
 
 [fedew04](https://github.com/fedew04) created the original version of this addon in December 2022 before joining the One Pace team, not including One Piece Kai.\
 It is hosted on GitHub and is still maintained manually with new releases: [fedew04/OnePaceStremio](https://github.com/fedew04/OnePaceStremio).
